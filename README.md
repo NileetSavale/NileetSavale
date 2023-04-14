@@ -1,9 +1,9 @@
 ### <h1 align="center">Hey there 👋 I'm Nileet Savale</h1>
 
-<img align="right" width="450" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY1ZjRkZTA5YjExODE5NjMwZGU4MzE1MjA0ODNjNzRjM2E4MDZjMSZjdD1n/SXxI9NlwvYiY3bRsck/giphy.gif">
+<img align="right" width="450" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY1ZjRkZTA5YjExODE5NjMwZGU4MzE1MjA0ODNjNzRjM2E4MDZjMSZjdD1n/SXxI9NlwvYiY3bRsck/giphy.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on a Cloud Server<br>🌱 I’m currently learning React<br>😁Open for suggestions,Open to help<br>🎶 Fun fact: Krishna Can fix all the Bugs Belive me !!!
+🔭 I’m currently working on a Cloud Server<br>🌱 I’m currently learning React<br>😁Open for suggestions,Open to help<br>🎶 Fun fact: Get Me a Cup Of Coffee And I will DO Any Thing For You!!!
 
   
 ## 🌐 Socials:
