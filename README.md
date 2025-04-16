@@ -42,7 +42,7 @@
 
 ---
 
-## 🍝 Main Course
+## 🍝 Appetizers
 
 ### 🧑‍🍳 Featured Projects
 
@@ -51,14 +51,63 @@
 - **Meeting Companion**: Chrome Extension + AI Summarizer  
 - **Flashcard Genie**: AI-based Flashcard Generator
 
-### 🧰 Tools & Stack
+## 🍽️ Main Course – Tools & Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+### 🗣️ Languages
+
+| Language     | Price (Proficiency) |
+|--------------|---------------------|
+| 🐍 Python     | $8.49               |
+| ☕ Java       | $7.49               |
+| 💻 C++        | $7.49               |
+| 🧠 TypeScript | $7.99               |
+| 🌐 JavaScript| $8.25               |
+| 🧬 Solidity   | $3.99               |
+
+---
+
+### ⚙️ Frameworks & Libraries
+
+| Framework / Library   | Price (Proficiency) |
+|------------------------|---------------------|
+| ⚛️ React               | $8.99               |
+| 🔗 Node.js             | $8.25               |
+| 🧪 TensorFlow          | $7.50               |
+| 🔥 PyTorch             | $6.99               |
+| 👁️ OpenCV              | $6.75               |
+| 🐼 Pandas              | $7.25               |
+| 🔬 Scikit-learn        | $6.25               |
+| 📊 NumPy               | $7.00               |
+| 🧠 NLTK                | $6.49               |
+
+---
+
+### 🛢️ Databases
+
+| Database  | Price (Proficiency) |
+|-----------|---------------------|
+| 🍃 MongoDB | $6.49               |
+| 🐬 MySQL   | $6.49               |
+| 📊 SQL     | $6.49               |
+
+---
+
+### 🧰 Tools & Platforms
+
+| Tool / Platform    | Price (Proficiency) |
+|---------------------|---------------------|
+| 🧷 Git               | $9.00               |
+| 🐙 GitHub            | $9.00               |
+| 📓 Jupyter Notebook  | $8.50               |
+| ✏️ Figma             | $8.50               |
+| 🪄 Adobe XD          | $8.00               |
+| ☁️ AWS               | $8.50               |
+| ☁️ GCP               | $8.00               |
+| 🐳 Docker            | $7.49               |
+
+---
+
+> 📦 **Note**: Prices are subjective. Tips accepted in the form of coffee ☕ or cool bugs 🐛.
 
 ---
 
@@ -76,7 +125,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NileetSavale&count_private=true&theme=tokyonight&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NileetSavale&hide_border=true&theme=tokyonight" />
 </p>
--->
+
 
 <!-- 🧰 Optional Tech Stack (commented for future)
 ## 🛠️ Tech Stack
