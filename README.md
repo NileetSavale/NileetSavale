@@ -69,7 +69,7 @@
 
 ---
 
-<!-- 📈 GitHub Stats (optional: uncomment later)
+📈 GitHub Stats (optional: uncomment later)
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -83,12 +83,12 @@
 
 - 🐍 Python | ⚡ FastAPI | 🧠 AI & Data
 - 🌐 React | 💅 Tailwind | 🐳 Docker | 🔧 Git
--->
+
 
 ---
 
 ## 📌 Pinned Repositories
-
+<!-- 
 <p align="center">
   <a href="https://github.com/NileetSavale/Language-Agnostic-Visualization-Web-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NileetSavale&repo=Language-Agnostic-Visualization-Web-Application&theme=tokyonight&hide_border=true" />
@@ -96,7 +96,7 @@
   <a href="https://github.com/NileetSavale/Monster-File-Editor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NileetSavale&repo=Monster-File-Editor&theme=tokyonight&hide_border=true" />
   </a>
-</p>
+</p> -->
 
 ---
 
