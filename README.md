@@ -26,7 +26,7 @@
 
 ---
 
-## 🍽️ Nileet's Dev Café
+## <p align="center"><i>🍽️ Nileet's Dev Café</i></p>
 ### <p align="center"><i>One shot of code, two shots of coffee.</i></p>
 
 ---
@@ -36,9 +36,9 @@
 |                     |                                                  |
 |---------------------|--------------------------------------------------|
 | 🧑‍💻 Name             | **Nileet Savale**                                 |
-| 🏫 University        | Indiana University Bloomington, USA 🇺🇸           |
-| 🛠️ Current Focus     | Cloud Server & LangViz 🌐                        |
-| 🌱 Learning Stack    | React, Docker, R, TypeScript                     |
+| 🏫 University        | Indiana University Bloomington, USA           |
+| 🛠️ Current Focus     | Cloud & Network Security 🌐                        |
+| 🌱 Learning Stack    | AWS, Docker, Flutter, GCP                    |
 
 ---
 
