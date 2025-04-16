@@ -1,25 +1,105 @@
-### <h1 align="center">Hey there 👋 I'm Nileet Savale</h1>
+<!-- 🔥 Header Image -->
+<p align="center">
+  <img src="pics/header.png" alt="Dev Café Banner" />
+</p>
 
-<img align="right" width="450" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY1ZjRkZTA5YjExODE5NjMwZGU4MzE1MjA0ODNjNzRjM2E4MDZjMSZjdD1n/SXxI9NlwvYiY3bRsck/giphy.gif">
+<!-- 🔗 Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nileet-savale-6384561b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nileetsavale">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:savalenileet@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://discordapp.com/users/Sstainer#5992">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
-# 💫 About Me:
-🔭 I’m currently working on a Cloud Server<br>🌱 I’m currently learning React<br>😁Open for suggestions,Open to help<br>🎶 Fun fact: Get Me a Cup Of Coffee And I will DO Any Thing For You!!!
-
-  
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Sstainer#5992) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nileetsavale/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nileet-savale-6384561b2/) 
-
-## ✉️ Contact
-Email: savalenileet@gmail.com
-<br />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NileetSavale&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NileetSavale&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NileetSavale&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!-- 👁 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NileetSavale&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
 ---
+
+## 🍽️ Nileet's Dev Café
+### <p align="center"><i>One shot of code, two shots of coffee.</i></p>
+
+---
+
+## ☕ Starter
+
+|                     |                                                  |
+|---------------------|--------------------------------------------------|
+| 🧑‍💻 Name             | **Nileet Savale**                                 |
+| 🏫 University        | Indiana University Bloomington, USA 🇺🇸           |
+| 🛠️ Current Focus     | Cloud Server & LangViz 🌐                        |
+| 🌱 Learning Stack    | React, Docker, R, TypeScript                     |
+
+---
+
+## 🍝 Main Course
+
+### 🧑‍🍳 Featured Projects
+
+- **LangViz App**: Language-Agnostic Visualizer  
+- **Monster File Editor**: Dungeon Editor for Angband RPG  
+- **Meeting Companion**: Chrome Extension + AI Summarizer  
+- **Flashcard Genie**: AI-based Flashcard Generator
+
+### 🧰 Tools & Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+---
+
+## 🍰 Dessert
+
+> ☕ *Fun Fact:* Give me a coffee and I’ll debug your universe  
+> 🎮 Gamer at heart | 🎨 UI Obsessed | 🧩 Always cooking something new in my mental kitchen
+
+---
+
+<!-- 📈 GitHub Stats (optional: uncomment later)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NileetSavale&count_private=true&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NileetSavale&hide_border=true&theme=tokyonight" />
+</p>
+-->
+
+<!-- 🧰 Optional Tech Stack (commented for future)
+## 🛠️ Tech Stack
+
+- 🐍 Python | ⚡ FastAPI | 🧠 AI & Data
+- 🌐 React | 💅 Tailwind | 🐳 Docker | 🔧 Git
+-->
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/NileetSavale/Language-Agnostic-Visualization-Web-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NileetSavale&repo=Language-Agnostic-Visualization-Web-Application&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NileetSavale/Monster-File-Editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NileetSavale&repo=Monster-File-Editor&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting <i>Nileet’s Dev Café</i> — come back hungry for code! 🍜</strong>
+</p>
